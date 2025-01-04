@@ -33,7 +33,7 @@ export function Hero() {
           </div>
           <div className="relative flex justify-center align-center">
             <img
-              src="../src/assets/pp1.png"
+              src="https://i.pinimg.com/736x/0f/e9/bb/0fe9bba766201d818d6c5dea51a28957.jpg"
               alt="Coding workspace"
               className="rounded-2xl shadow-2xl"
               width={300}
